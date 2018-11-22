@@ -39,7 +39,7 @@ Also was a business owner, so it's 7 years business experience.
 
 #### RT.com (Rostelecom) - network engineer
 
-2008-2009
+2007-2008
 
 ISP network engineer. Was responsible for ADSL infrastructure.
 
@@ -47,14 +47,14 @@ ISP network engineer. Was responsible for ADSL infrastructure.
 
 South Ural State University - susu.ru, 2004-2009, bachelor degree in Computer Science and Radio Communications
 
-Slurm.io offline Kubernetes cources
-
 EDX.org Introdutcion to Kubernetes course
+
+Slurm.io offline Kubernetes cources
 
 ### Bio
 
-Born in 1987, live in Russia, Chelyabinsk. GMT+5.
+Born in 1987, live in Russia, Chelyabinsk, GMT+5. Able to travel several times a year.
 
-Best work hours - 00.00 - 16.00 UTC.
+Best work hours - 00.00 - 16.00 UTC, other hours negotiable.
 
-Native Russian language, fluent English, basic German and Spanish
+Native Russian language, fluent English, basic German and Spanish.
