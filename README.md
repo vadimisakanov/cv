@@ -23,9 +23,9 @@ More than 13 yrs professional experience in IT.
 
 Creating and maintaining IT infrastructure of some of the biggest web projects in Russia & CIS.
 
-Keywords: highload, devops integration, amazon aws, gitlab ci, kubernetes, ansible automation, slack automation, zabbix, prometheus.
+Keywords: highload, devops integration, amazon aws, gitlab ci, kubernetes, ansible automation, slack automation, monitoring (zabbix, prometheus).
 
-Tech stack: linux, LAMP, nginx/apache, php/python/ruby deployments, mysql, postgresql, mongodb, clusterization tools, openvz & kvm virtualization.
+Tech stack: linux, LAMP, nginx/apache, php/python/ruby deployments, databases (mysql, postgresql, mongodb), clusterization tools, openvz & kvm virtualization & lots of other stuff.
 
 #### Hosterbox.ru - CTO
 
@@ -33,7 +33,7 @@ Tech stack: linux, LAMP, nginx/apache, php/python/ruby deployments, mysql, postg
 
 A web-hosting provider with managed services.
 
-Tech stack: linux, LAMP, kvm & openvz virtualization, ansible
+Tech stack: linux, LAMP, kvm & openvz virtualization, ansible automation
 
 Also was a business owner, so it's 7 years business experience.
 
