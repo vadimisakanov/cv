@@ -13,7 +13,7 @@ github.com/vadimisakanov
 
 ## Currilucum vitae
 
-More than 13 yrs professional experience in IT.
+More than 10 yrs professional experience in IT.
 
 ### Work experience:
 
