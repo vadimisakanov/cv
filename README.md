@@ -2,7 +2,7 @@
 Linux automation engineer.
 Devops, Kubernetes, Gitlab, CI/CD, Ansible, highload web projects.
 
-Open for projects with myself or with my team.
+Open for projects with my team or wtih myself.
 
 email: vadim.isakanov@gmail.com
 
