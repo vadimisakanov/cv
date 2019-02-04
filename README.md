@@ -2,6 +2,8 @@
 Linux automation engineer.
 Devops, Kubernetes, Gitlab, CI/CD, Ansible, highload web projects.
 
+Open for projects with myself or with my team.
+
 email: vadim.isakanov@gmail.com
 
 skype: vadimisakanov
@@ -19,7 +21,7 @@ More than 10 yrs professional experience in IT.
 
 #### Southbridge.io - ops engineer, infrastructure automation
 
-2017-2018
+2017-current
 
 Creating and maintaining IT infrastructure of some of the biggest web projects in Russia & CIS.
 
