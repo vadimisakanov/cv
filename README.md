@@ -1,8 +1,9 @@
 # Vadim Isakanov
 Linux automation engineer.
+
 Keywords: Devops, Kubernetes, Gitlab, CI/CD, Ansible, highload web projects.
 
-Open for projects with my team or wtih myself.
+Open for projects.
 
 email: vadim.isakanov@gmail.com
 
