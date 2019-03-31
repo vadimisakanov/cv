@@ -1,6 +1,6 @@
 # Vadim Isakanov
 Linux automation engineer.
-Devops, Kubernetes, Gitlab, CI/CD, Ansible, highload web projects.
+Keywords: Devops, Kubernetes, Gitlab, CI/CD, Ansible, highload web projects.
 
 Open for projects with my team or wtih myself.
 
