@@ -49,7 +49,9 @@ ISP network engineer. Was responsible for ADSL infrastructure.
 
 South Ural State University - susu.ru, 2004-2009, bachelor degree in Computer Science and Radio Communications
 
-EDX.org Introdutcion to Kubernetes course
+EDX.org Introduction to Kubernetes course
+
+LinuxFoundations Kubernetes Administration course
 
 Slurm.io offline Kubernetes cources
 
