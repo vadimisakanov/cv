@@ -28,7 +28,7 @@ Creating and maintaining IT infrastructure of some of the biggest web projects i
 
 Keywords: highload, devops integration, amazon aws, gitlab ci, kubernetes, ansible automation, slack automation, monitoring (zabbix, prometheus).
 
-Tech stack: linux, LAMP, nginx/apache, php/python/ruby deployments, databases (mysql, postgresql, mongodb), clusterization tools, openvz & kvm virtualization & lots of other stuff.
+Tech stack: kubernetes, gitlab ci, linux, LAMP, nginx/apache, php/python/ruby deployments, databases (mysql, postgresql, mongodb), clusterization tools, openvz & kvm virtualization & lots of other stuff.
 
 #### Hosterbox.ru - CTO
 
