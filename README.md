@@ -13,6 +13,8 @@ fb.com/vadimisakanov
 
 github.com/vadimisakanov
 
+t.me/vadimisakanov
+
 
 ## Currilucum vitae
 
@@ -20,9 +22,18 @@ More than 10 yrs professional experience in IT.
 
 ### Work experience:
 
+#### Cogia Intelligence - infrastructure engineer
+
+2019 - current
+
+Creating and maintaining IT infrastructure for a data analytics startup.
+Implementing a DevOps approach, infrastructure setup with Infrastructure as a Code system, integrating CI/CD, Kubernetes, modern monitoring, log systems, etc.
+
+Keywords: Java/Tomcat, Kubernetes, DevOps, Ansible, Zabbix, Prometheus, Gitlab CI, heavy MySQL and Apache Cassandra installations
+
 #### Southbridge.io - ops engineer, infrastructure automation
 
-2017-current
+2017-2019
 
 Creating and maintaining IT infrastructure of some of the biggest web projects in Russia & CIS.
 
