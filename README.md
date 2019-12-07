@@ -1,5 +1,5 @@
 # Vadim Isakanov
-Linux automation engineer. Work @ Southbridge.io
+Linux automation engineer.
 
 Keywords: Devops, Kubernetes, Gitlab, CI/CD, Ansible, highload web projects.
 
