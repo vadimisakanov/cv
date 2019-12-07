@@ -74,3 +74,5 @@ Born in 1987, live in Russia, Chelyabinsk, GMT+5. Able to travel several times a
 Best work hours - 00.00 - 16.00 UTC, other hours negotiable.
 
 Native Russian language, fluent English, basic German and Spanish.
+
+A host and speaker for UWDC.ru conference, sysadminka.timepad.ru meetups, local Kubernetes meetups
