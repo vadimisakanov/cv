@@ -49,7 +49,7 @@ A web-hosting provider with managed services.
 
 Tech stack: linux, LAMP, kvm & openvz virtualization, ansible automation
 
-Also was a business owner, so it's 7 years business experience.
+Also was a business owner, so it's 7 years business experience. Since then I have experience hiring people, making teams, experience in sales, management, finance, market researches, being financially effective.
 
 #### RT.com (Rostelecom) - network engineer
 
