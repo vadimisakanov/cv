@@ -1,7 +1,7 @@
 # Vadim Isakanov
-Linux automation engineer.
+Infrastructure engineer.
 
-Keywords: Devops, Kubernetes, Gitlab, CI/CD, Ansible, highload web projects.
+Keywords: Automation, Infrastructure, DevOps, Kubernetes, Gitlab, CI/CD, Ansible, highload web projects.
 
 Open for projects.
 
