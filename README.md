@@ -29,7 +29,7 @@ More than 10 yrs professional experience in IT.
 Creating and maintaining IT infrastructure for a data analytics startup.
 Implementing DevOps approach, infrastructure setup with Infrastructure as a Code system, integrating CI/CD, Kubernetes, modern monitoring, log systems, etc.
 
-Keywords & tech stack: Java/Tomcat, Kubernetes, DevOps, Ansible, Zabbix, Prometheus, ELK stack, Gitlab CI, heavy MySQL and Apache Cassandra installations
+Keywords & tech stack: Java/Tomcat, Kubernetes, DevOps, Ansible, Zabbix, Prometheus, ELK stack, Gitlab CI, Apache Cassandra, heavy MySQL and MongoDB installations
 
 #### Southbridge.io - ops engineer, infrastructure automation
 
