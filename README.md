@@ -20,6 +20,14 @@ t.me/vadimisakanov
 
 More than 10 yrs professional experience in IT.
 
+### Objective / Looking for
+
+Looking for a full-time remote job in infrastructure automation, creating efficient infrastructure, setting up DevOps processes and helping deliver software better and faster. Open for short term projects untill enrolled in a full time job.
+
+Not willing to relocate for now, sorry. Able to travel several times a year, including long-term travels up to few months.
+
+Best work hours - 00.00 - 16.00 UTC, other hours negotiable.
+
 ### Work experience:
 
 #### Cogia Intelligence - infrastructure engineer
@@ -70,8 +78,6 @@ Slurm.io offline Kubernetes cources
 ### Bio
 
 Born in 1987, live in Russia, Chelyabinsk, GMT+5. Able to travel several times a year.
-
-Best work hours - 00.00 - 16.00 UTC, other hours negotiable.
 
 Native Russian language, fluent English, basic German and Spanish.
 
