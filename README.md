@@ -32,12 +32,12 @@ Best work hours - 00.00 - 16.00 UTC, other hours negotiable.
 
 #### Cogia Intelligence - infrastructure engineer
 
-2019 - current
+2019 - 2020
 
 Creating and maintaining IT infrastructure for a data analytics startup.
 Implementing DevOps approach, infrastructure setup with Infrastructure as a Code system, integrating CI/CD, Kubernetes, modern monitoring, log systems, etc.
 
-Keywords & tech stack: Java/Tomcat, Kubernetes, DevOps, Ansible, Zabbix, Prometheus, ELK stack, Gitlab CI, Apache Cassandra, heavy MySQL installations
+Keywords & tech stack: Java/Tomcat, Kubernetes, DevOps, Ansible, Terraform, Zabbix, Prometheus, ELK stack, Gitlab CI, Apache Cassandra, heavy MySQL installations
 
 #### Southbridge.io - ops engineer, infrastructure automation
 
