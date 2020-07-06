@@ -81,4 +81,4 @@ Born in 1987, live in Russia, Chelyabinsk, GMT+5. Able to travel several times a
 
 Native Russian language, fluent English, basic German and Spanish.
 
-A host and speaker for UWDC.ru conference, sysadminka.timepad.ru meetups, local Kubernetes meetups
+A host and speaker for UWDC.ru conference, sysadminka.timepad.ru meetups, Kubernetes meetups in Russia
